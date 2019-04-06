@@ -1,23 +1,23 @@
 # Site
-repository: sproogen/resume-theme
+repository: laoman/laoman.github.io
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Georgios Georgiou 
+title: Lead Software Developer
+email: indefixx@email.co.uk
+website: www.github.com/laoman/laoman.github.io
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: laoman
+github_username:  laoman
 # dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+ facebook_username: georgios.georgiou
+flickr_username: laoman
+instagram_username: laoman
+linkedin_username: georgiosgeorgiou
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
@@ -25,8 +25,9 @@ youtube_username: globalmtb
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name is Georgios Georgiou and i am a Software Developer for the electronic payments industry, technology addict, developer by day developer by night!
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Oracle</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -40,10 +41,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
+  Alongside my interests in software engineering some of my other interests and hobbies are:
+   - Photography
    - Gaming
-   - Knitting
    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
